@@ -1,2 +1,2 @@
 # arqueo-datasets
-Datasets sobre pesquisa arqueológicas
+Datasets sobre pesquisas arqueológicas
